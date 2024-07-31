@@ -1,9 +1,13 @@
 # 💫 About Me:
-                                 Hi 👋! My name is Yashoda Krishna./
-                                    I'm   an NCC  Cadet 👮/
-                        Data Analyst | Prompt Engineer | Software Developer 🧑‍💻 /
-                                  AI Developer | Web Developer🧑‍💻/
-                 I'm  not a Great Programmer; I'm a Good Programmer with great Habits 💪
+                                 Hi 👋! My name is Yashoda Krishna.😀                                                                                         /
+                                                                                                                                                                /
+                                    I'm   an NCC  Cadet 👮                                                                                                      /
+                        Data Analyst | Prompt Engineer | Software Developer 🧑‍💻                                                                                  /
+                                  AI Developer | Web Developer🧑‍💻                                                                                                /
+                                                                                                                                                                 /
+                 I'm  not a Great Programmer; I'm a Good Programmer with great Habits 💪                                                                        /
+                                I'm working on Ai Smart Attendance                                                                                               /
+                      Started with a little bit  Now I don't know how to quit !                                                                        /
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashoda-krishna-kalluru-499192270) 
