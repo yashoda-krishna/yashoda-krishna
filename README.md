@@ -1,8 +1,9 @@
 # 💫 About Me:
-                                                  Hi 👋! My name is Yashoda Krishna.<br />
-                                                          I'm   an NCC  Cadet 👮<br />
-                                                  Data Analyst | Prompt Engineer | Software Developer 🧑‍💻<br />
-                                                  
+                                 Hi 👋! My name is Yashoda Krishna./
+                                    I'm   an NCC  Cadet 👮/
+                        Data Analyst | Prompt Engineer | Software Developer 🧑‍💻 /
+                                  AI Developer | Web Developer🧑‍💻/
+                 I'm  not a Great Programmer; I'm a Good Programmer with great Habits 💪
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashoda-krishna-kalluru-499192270) 
