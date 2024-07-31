@@ -43,13 +43,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yashoda-krishna/yashoda-krishna/output/snake.svg" alt="Snake animation" />
-
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=yashoda-krishna&icon=0&color=0)](https://visitcount.itsvg.in)
 
