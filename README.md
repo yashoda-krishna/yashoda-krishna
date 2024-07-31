@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm  Yashoda-krishna
-
+Hi 👋! My name is Yashoda Krishna.
+I'm   an NCC  Cadet 👮
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashoda-krishna-kalluru-499192270) 
