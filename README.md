@@ -21,13 +21,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yashoda-krishna/yashoda-krishna/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
